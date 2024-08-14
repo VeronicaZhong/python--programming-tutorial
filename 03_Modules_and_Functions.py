@@ -20,4 +20,3 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>> buckey = math.floor
 >>> buckey(19.8)
 19
->>> 
