@@ -47,4 +47,3 @@ Enter number here: 43
 75
 >>> g ** 3
 79507
->>> 
