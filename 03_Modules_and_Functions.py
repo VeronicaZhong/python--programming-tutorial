@@ -1,4 +1,4 @@
-[Clang 15.0.0 (clang-1500.3.9.4)] on darwin
+on darwin
 Type "help", "copyright", "credits" or "license" for more information.
 >>> 5 ** 4
 625
