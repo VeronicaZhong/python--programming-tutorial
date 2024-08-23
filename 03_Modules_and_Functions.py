@@ -1,4 +1,4 @@
-on darwin
+
 Type "help", "copyright", "credits" or "license" for more information.
 >>> 5 ** 4
 625
