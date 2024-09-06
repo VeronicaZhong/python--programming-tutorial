@@ -1,4 +1,3 @@
-" for more information.
 >>> 5 ** 4
 625
 >>> pow(5,4)
