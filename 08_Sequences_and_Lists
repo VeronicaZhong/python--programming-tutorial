@@ -1,0 +1,8 @@
+>>> family = ['mom', 'dad', 'bro', 'sis', 'dog']
+>>> family [3]
+'sis'
+>>> family [-2]
+'sis'
+>>> 'buckey' [3]
+'k'
+>>> 
